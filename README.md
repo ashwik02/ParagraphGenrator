@@ -1,8 +1,27 @@
-# React + Vite
+# Paragraph Generator with Recoil
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React application that demonstrates the use of Recoil for state management. It allows users to input a number and generate a paragraph with a corresponding number of randomly selected words. The paragraph is generated only when the "Generate Paragraph" button is clicked.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Introduction](#introduction)
+- [Features](#features)
+
+## Introduction
+
+This project showcases the integration of Recoil, a state management library for React, to manage and derive state in a React application. The app demonstrates how to use Recoil's `atom` and `selector` to handle user input and generate a derived state based on that input.
+
+## Features
+
+- Input a number to specify the length of the paragraph.
+- Generate a paragraph composed of randomly selected words.
+- Uses Recoil's state management for efficient and scalable state handling.
+
+## Installation
+
+To get started with the project, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/paragraph-generator-recoil.git
+   ```
