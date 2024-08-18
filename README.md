@@ -23,5 +23,5 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/paragraph-generator-recoil.git
+   git clone https://github.com/ashwik02/ParagraphGenrator.git
    ```
